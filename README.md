@@ -25,3 +25,21 @@ This is an interactive machine learning web app that classifies Iris flowers int
 - `iris_app.py` — Main application code  
 - `IRIS.csv` — Dataset file  
 - `requirements.txt` — Python dependencies
+
+
+## ▶️ How to Run the App
+
+-Clone the repository:
+git clone https://github.com/your-username/iris-flower-classification.git
+cd iris-flower-classification
+
+-Install dependencies:
+pip install -r requirements.txt
+
+-Launch the app:
+streamlit run iris_app.py
+  
+## 🙌 Acknowledgment
+This project was created as part of my virtual internship with CodSoft under the Data Science domain. It demonstrates skills in machine learning, data visualization, and user interface design.
+
+
