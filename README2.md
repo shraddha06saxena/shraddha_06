@@ -30,23 +30,4 @@ An interactive and visually enhanced Streamlit web application that predicts mov
   - Duration  
   - Year of release
 
-## 📷 UI Preview
 
-> *(Insert screenshots here)*  
-> Example:
-> ![App Screenshot](screenshots/movie_app.png)
-
-## ▶️ How to Run
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/movie-rating-predictor.git
-
-# Navigate into the project
-cd movie-rating-predictor
-
-# Install requirements
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
